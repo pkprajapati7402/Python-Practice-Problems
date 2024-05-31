@@ -1,4 +1,4 @@
-**Python Practice Problems**
+# Python Practice Problems
 
 This repository contains Python solutions to various practice problems covering a range of topics including searching algorithms, graph traversals, data structures like linked lists and binary search trees (BST), as well as problems from platforms like LeetCode. Each solution is provided in a separate Python file for clarity and ease of understanding.
 
